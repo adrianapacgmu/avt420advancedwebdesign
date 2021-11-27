@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* CSS Document */
+.ui-datepicker {
+width: 17em;
+padding: .2em .2em 0;
+display: none;
+background:#D9C1C1; 
+}
+.ui-datepicker .ui-datepicker-title {
+margin: 0 2.3em;
+line-height: 1.8em;
+text-align: center;
+color:#FFFFFF;
+background:#2F99B4; 
+}
+.ui-datepicker table {
+width: 100%;
+font-size: .7em;
+border-collapse: collapse;
+font-family:verdana;
+margin: 0 0 .4em;
+color:#000000;
+background:#EF90F2; 
+}
+.ui-datepicker td {
+ 
+border: 0;
+padding: 1px;
+ 
+ 
+}
+.ui-datepicker td span,
+.ui-datepicker td a {
+display: block;
+padding: .8em;
+text-align: right;
+text-decoration: underline;
+}
+
+.ui-datepicker {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.draggable {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.draggable {
+	font-size: 35px;
+}
+
+.draggable {
+color: blueviolet;
+}
+
+.ui-widget-content {
+	align-content: center;
+	column-fill: auto;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin-left: 150px
+}
+
+.checkbox {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+
+
+.effect {
+	color: aqua;
+}
+
+ui-widget-header {
+	color: aqua;
+}
+
+.toggler {
+	margin-left: 150px;
+}
+
+
